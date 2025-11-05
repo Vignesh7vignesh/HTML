@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Hyper link Text</title>
+    </head>
+    <body>
+        <h2> 1.Text link</h2>
+        <p>
+            vist<a href="https://www.msn.com/en-in/news/other/10-best-video-game-villains-of-all-time/ar-AA1Eb5zG">something </a>
+        </p>
+        <h2> 2.Image link </h2>
+        <p>
+            click on the image button to go to <stong>Gallery</stong>
+            <a href="vecteezy_a-samurai-in-a-demonic-red-mask-on-the-battlefield-makes-a_22874553 (1).jpg" target="_blank">text</a>
+        </p>
+    </body>
+</html>
