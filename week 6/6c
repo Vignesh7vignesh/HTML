@@ -1,0 +1,14 @@
+<html>
+    <body>
+        <table border="1">
+            <tr><th>Name</th><th>Age</th><th>Status</th></tr>
+            <tr id="row"></tr>
+        </table>
+        <script>
+            let n=prompt("Enter your name");
+            let a=prompt("Enter your age");
+            let s=(a>=18)?"Can Vote":"Cannot Vote";
+            document.getElementById("row").innerHTML="<td>"+n+"</td><td>"+a+"</td><td>"+s+"</td>";
+        </script>
+    </body>
+</html>
