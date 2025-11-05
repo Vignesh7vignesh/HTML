@@ -1,0 +1,57 @@
+<!-- 
+<html>
+
+<body>
+
+<h1>Audio and Video Embedding Example</h1>
+
+<h2>Embedded Audio</h2>
+<audio controls>
+    <source src="WhatsApp Audio 2025-07-22 at 15.13.38_35abbf05.OPUS" type="audio/mp3">
+    Your browser does not support the audio element.
+</audio>
+
+<h2>Embedded Video</h2>
+<video width="480" height="320" controls>
+    <source src="WhatsApp Video 2025-07-18 at 17.52.55_4425bbf8.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+</body>
+</html> -->
+<!-- <!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>INLINE STYLESHEET</title> 
+    <style> 
+        body 
+        { 
+            background-color:coral; 
+        } 
+    </style> 
+</head> 
+<body> 
+    <h1>This is a heading</h1> 
+    <p>This is a paragraph</p>  
+</body> 
+</html> 
+</html>  -->
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<link rel="stylesheet" type="text/css" href="style.css"> 
+</head> 
+<body> 
+<h1>This is a heading</h1> 
+<p>This is a paragraph</p> 
+</body> 
+</html> 
+<html> 
+<body> 
+<h1 style="color:green;text-align:center;">This is a heading</h1> 
+<p style="color:orange;">This is a paragraph.</p> 
+</body> 
+</html> 
+
