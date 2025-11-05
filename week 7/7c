@@ -1,0 +1,86 @@
+<html>
+    <body>
+        <script>
+            var a = [10, 20, 30, 40, 50];
+
+            document.write("Original Array: " + a + "<br>");
+            document.write("Length: " + a.length + "<br>");
+
+            // 2. push
+            a.push(60);
+            document.write("After push(60): " + a + "<br>");
+
+            // 3. pop
+            a.pop();
+            document.write("After pop(): " + a + "<br>");
+
+            // 4. unshift
+            a.unshift(12);
+            document.write("After unshift(12): " + a + "<br>");
+
+            // 5. shift
+            a.shift();
+            document.write("After shift(): " + a + "<br>");
+
+            // 6. concat
+            var b = [70, 80];
+            var c = a.concat(b);
+            document.write("After concat([70,80]): " + c + "<br>");
+
+            // 7. join
+            document.write("Join with '-': " + a.join("-") + "<br>");
+
+            // 8. reverse
+            document.write("Reversed: " + a.slice().reverse() + "<br>");
+
+            // 9. sort
+            document.write("Sorted: " + a.slice().sort() + "<br>");
+
+            // 10. indexOf
+            document.write("Index of 30: " + a.indexOf(30) + "<br>");
+
+            // 11. lastIndexOf
+            document.write("Last Index of 30: " + a.lastIndexOf(30) + "<br>");
+
+            // 12. includes
+            document.write("Includes 40? " + a.includes(40) + "<br>");
+
+            // 13. slice
+            document.write("Slice(1,3): " + a.slice(1, 3) + "<br>");
+
+            // 14. splice
+            var temp = a.slice(); // copy
+            temp.splice(2, 1, 99); // remove 1 element at index 2, insert 99
+            document.write("Splice(2,1,99): " + temp + "<br>");
+
+            // 15. map
+            var squares = a.map(x => x * x);
+            document.write("Squares (map): " + squares + "<br>");
+
+            // 16. filter
+            var evens = a.filter(x => x % 20 == 0);
+            document.write("Filter (multiples of 20): " + evens + "<br>");
+
+            // 17. reduce
+            var sum = a.reduce((acc, val) => acc + val, 0);
+            document.write("Reduce (sum): " + sum + "<br>");
+
+            // 18. every
+            document.write("Every > 5? " + a.every(x => x > 5) + "<br>");
+
+            // 19. some
+            document.write("Some > 45? " + a.some(x => x > 45) + "<br>");
+
+            // 20. find
+            document.write("Find > 25: " + a.find(x => x > 25) + "<br>");
+
+            // 21. findIndex
+            document.write("FindIndex of > 25: " + a.findIndex(x => x > 25) + "<br>");
+
+        </script>
+    </body>
+</html>
+
+
+
+
