@@ -1,0 +1,36 @@
+<html>
+<body>
+<table border="1"align="center">
+ 
+<tr><th rowspan="2">Name</th>
+<td> Arjun</td>
+</tr>
+<tr><td>Harsha</td>
+<tr><th rowspan="2">Mobile No</th><td>9929364279</td></tr>
+<tr><td>9929364427</td>
+</table>
+</body>
+</html>
+<html>
+<body>
+<table border="1"align="center">
+<tr>
+<th colspan="2">phone number</th>
+<th colspan="2"> email id</th>
+</tr>
+<tr>
+<th> phone number 1</th>
+<th> phone number 2</th>
+<th> email id 1</th>
+<th> email id 2</th>
+</tr>
+<tr>
+<td>7865354651</td>
+<td>7685245744</td>
+<td> vignesh@gmail.com</td>
+<td>venkatesh@gmail.com</td>
+</tr>
+</table>
+</body>
+</html>
+
