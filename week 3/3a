@@ -1,0 +1,147 @@
+
+<html>
+
+<body>
+
+<header>
+    <h1>Welcome to My Website</h1>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Articles</a></li>
+            <li><a href="tel:9491539482">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <article>
+            <h2>Understanding HTML5 Semantic Tags</h2>
+            <p>Semantic tags help define the structure of a web page clearly.</p>
+        </article>
+        <article>
+            <h2>Benefits of Using Semantic Elements</h2>
+            <p>They improve accessibility and SEO of web pages.</p>
+        </article>
+    </section>
+
+    <aside>
+        <h3>Related Links</h3>
+        <ul>
+            <li><a href="#">HTML Reference</a></li>
+            <li><a href="#">CSS Guide</a></li>
+        </ul>
+    </aside>
+
+    <section>
+        <figure>
+            <img src="vecteezy_a-samurai-in-a-demonic-red-mask-on-the-battlefield-makes-a_22874553 (1).jpg" alt="Sample Image" width="300">
+            <figcaption>Figure: Example of a semantic image tag.</figcaption>
+        </figure>
+    </section>
+
+    <div>
+        <span>© 2025 MyWebsite</span>
+    </div>
+</main>
+
+<footer>
+    <p>Contact us at info@example.com</p>
+</footer>
+
+</body>
+</html>
+<!-- <!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+     <meta charset="UTF-8"> 
+     <title>HTMLS semantic Elements Demo</title> 
+     <style> 
+        body { 
+            font-family:Arial, sans-serif; 
+            margin: 0; 
+       } 
+       header,nav,footer { 
+             background-color:#443838; 
+             color: rgb(193, 176, 176); 
+             padding:1em; 
+       } 
+       nav a { 
+           color:White; 
+           margin: 0 10px; 
+           text-decoration: none; 
+      } 
+      main { 
+          display: flex; 
+          padding:20px; 
+       } 
+       article { 
+            flex: 3;       
+            padding: 20px; 
+            background-color: #f9f9f9; 
+      }  
+      aside { 
+           flex: 1; 
+           padding: 20px; 
+           background-color: #e0e0e0; 
+       } 
+       figure { 
+            margin: 0; 
+            text-align: center; 
+       } 
+       figcaption { 
+              font-style: italic; 
+              font-size: 0.9em; 
+       } 
+       footer { 
+             text-align: center; 
+       } 
+      </style> 
+</head> 
+<body> 
+ 
+<header> 
+     <h1>My Blog Website</h1> 
+</header> 
+<nav> 
+      <a href="home.html>Home</a> 
+      <a href="">Articles</a> 
+      <a href="#">Gallery</a> 
+      <a href="#">Contact</a> 
+</nav>  
+  
+<main> 
+     <article> 
+           <h2>Understanding HTMLS Semantic Tags</h2> 
+           <p><span style="font-weight:bold;">HTMLS</span> introduced 
+semantic elements that make your code more readable and accessible.</p> 
+         <figure> 
+            <img src="C:\Users\Satya Durga Prasad\OneDrive\文档\WhatsApp 
+Image 2025-07-30 at 15.09.53_3903ea76.jpg " alt="HTMLS illustration"> 
+            <figcaption>Figure: illustration of HTMLS layout</figcaption> 
+           </figure> 
+         <section> 
+               <h3>Why Use Semantic Tags?</h3> 
+               <p>Semantic tags help search engines and screen readers understand 
+the structure of your Webpage.</p> 
+       </section> 
+    </article> 
+    
+   <aside> 
+        <h3>Related Posts</h3> 
+        <ul> 
+            <li><a href="#">Introduction to HTMLS</a></li> 
+            <li><a href="#">CSS Basics</a></li> 
+            <li><a href="#">JavaScript for Beginners</a></li> 
+        </ul> 
+     </aside> 
+</main> 
+ 
+<footer> 
+      <p>&cpoy; 2025 My Blog. All rights reserved.</p> 
+</footer> 
+ 
+</head> 
+</html> -->
+
