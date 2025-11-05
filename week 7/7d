@@ -1,0 +1,85 @@
+<html>
+  <body>
+    <script>
+      document.write("<h3>JavaScript Math Object Demo</h3><br>");
+
+      // 1. Math.PI
+      document.write("Math.PI: " + Math.PI + "<br>");
+
+      // 2. Math.E
+      document.write("Math.E: " + Math.E + "<br>");
+
+      // 3. Math.LN2
+      document.write("Math.LN2 (Natural log of 2): " + Math.LN2 + "<br>");
+
+      // 4. Math.LN10
+      document.write("Math.LN10 (Natural log of 10): " + Math.LN10 + "<br>");
+
+      // 5. Math.SQRT2
+      document.write("Math.SQRT2 (√2): " + Math.SQRT2 + "<br>");
+
+      // 6. Math.SQRT1_2
+      document.write("Math.SQRT1_2 (√½): " + Math.SQRT1_2 + "<br><br>");
+
+      // Methods
+
+      // 7. Math.abs
+      document.write("Math.abs(-42): " + Math.abs(-42) + "<br>");
+
+      // 8. Math.ceil
+      document.write("Math.ceil(4.2): " + Math.ceil(4.2) + "<br>");
+
+      // 9. Math.floor
+      document.write("Math.floor(4.8): " + Math.floor(4.8) + "<br>");
+
+      // 10. Math.round
+      document.write("Math.round(4.5): " + Math.round(4.5) + "<br>");
+
+      // 11. Math.max
+      document.write("Math.max(10, 20, 30): " + Math.max(10, 20, 30) + "<br>");
+
+      // 12. Math.min
+      document.write("Math.min(10, 20, 30): " + Math.min(10, 20, 30) + "<br>");
+
+      // 13. Math.pow
+      document.write("Math.pow(2, 3): " + Math.pow(2, 3) + "<br>");
+
+      // 14. Math.sqrt
+      document.write("Math.sqrt(49): " + Math.sqrt(49) + "<br>");
+
+      // 15. Math.random
+      document.write("Math.random(): " + Math.random() + "<br>");
+
+      // 16. Math.trunc
+      document.write("Math.trunc(4.9): " + Math.trunc(4.9) + "<br>");
+
+      // 17. Math.sign
+      document.write("Math.sign(-100): " + Math.sign(-100) + "<br>");
+
+      // 18. Math.log
+      document.write("Math.log(10): " + Math.log(10) + "<br>");
+
+      // 19. Math.exp
+      document.write("Math.exp(1): " + Math.exp(1) + "<br>");
+
+      // 20. Math.sin
+      document.write("Math.sin(Math.PI / 2): " + Math.sin(Math.PI / 2) + "<br>");
+
+      // 21. Math.cos
+      document.write("Math.cos(0): " + Math.cos(0) + "<br>");
+
+      // 22. Math.tan
+      document.write("Math.tan(Math.PI / 4): " + Math.tan(Math.PI / 4) + "<br>");
+
+      // 23. Math.atan2
+      document.write("Math.atan2(1, 1): " + Math.atan2(1, 1) + "<br>");
+
+      // 24. Math.log10
+      document.write("Math.log10(1000): " + Math.log10(1000) + "<br>");
+
+      // 25. Math.cbrt
+      document.write("Math.cbrt(27): " + Math.cbrt(27) + "<br>");
+    </script>
+  </body>
+</html>
+
