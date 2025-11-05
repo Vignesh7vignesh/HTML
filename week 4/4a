@@ -1,0 +1,19 @@
+
+<html>
+<head>
+ <style>
+   body {background-color : rgb(255, 255, 255);}
+   h1 {color : rgba(88, 148, 227, 0.947);}
+   h2 {color :rgb(4, 255, 4);}
+   p {color : red;}
+  </style>
+ </head>
+<body>
+
+<h1 style="color:#62ff00; "> A Blue heading </h1>
+<p style ="color :rgba(224, 141, 32, 0.981) ;"> A Red Paragraph </p>
+<h1> Welcome to Aditsa University </h1>
+<h2> Welcome to Aditya University </h2>
+<h3> Welcome to Aditya University </h3>
+</body>
+</html>
